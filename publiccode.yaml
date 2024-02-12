@@ -1,6 +1,6 @@
 #version doesn't matter
 publiccodeYmlVersion: "0.3"
-# stap 2
+# stap 2 werkt niet bij post naar oC
 description:
   nl:
     shortDescription: >-
@@ -12,4 +12,8 @@ description:
       Simple chat application that allows a user to send messages.
     longDescription: >
       Uses the MQTT protocol to send messages. Originated as an assignment from the HvA. Misused to test OpenCatalogi.
-    
+#stap 3
+legal:
+  license: Apache-2.0
+  repoOwner: Geleiding-2
+
