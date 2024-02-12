@@ -1,1 +1,9 @@
+#version doesn't matter
 publiccodeYmlVersion: "0.3"
+# stap 2
+description:
+  nl:
+    shortDescription: >-
+      Simple chatapplicatie die een gebruiker in staat stelt om berichten te sturen. 
+    longDescription: >
+      Gebruikt MQTT protocol om berichten te versturen. Ontstaan als opdracht van de HvA. Misbruikt om OpenCatalogi te testen.
